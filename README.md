@@ -32,16 +32,8 @@ Password:
  - Spark Master: http://52.53.237.20:7080/
  - Solr Admin UI: http://54.215.239.149:8983/solr/#/
 
-#### Connecting to the cluster from DevCenter
-- Simply add a new connection
-- Enter a name for your connection
-- Enter any of the ip's from above as a contact host
-- Profit. 
+#### Connecting to the cluster using Studio
 
-![DevCenter How To](http://i.imgur.com/8zwzmDj.png)
-
-
-----------
 
 
 Hands On DSE Cassandra 
